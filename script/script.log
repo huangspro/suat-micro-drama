@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2026.8.22)  20 SEP 2026 20:50
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2026.8.22)  20 SEP 2026 20:53
  restricted system commands enabled.
 **script.tex
 (./script.tex
@@ -764,7 +764,9 @@ luaotfload | aux : font no 38 (nil) does not define feature vrt2 for script latn
 luaotfload | aux : font no 39 (nil) does not define feature vert for script latn
  with language dflt
 luaotfload | aux : font no 39 (nil) does not define feature vrt2 for script latn
- with language dflt
+ with language dflt [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 luaotfload | aux : font no 44 (nil) does not define feature vert for script latn
  with language dflt
 luaotfload | aux : font no 44 (nil) does not define feature vrt2 for script latn
@@ -772,7 +774,7 @@ luaotfload | aux : font no 44 (nil) does not define feature vrt2 for script latn
 LaTeX Font Info:    Font shape `LTJY3/FandolSong-Regular(0)/bx/n' in size <14.4
 > not available
 (Font)              Font shape `LTJY3/FandolSong-Regular(0)/b/n' tried instead 
-on input line 18.
+on input line 19.
 luaotfload | aux : font no 46 (nil) does not define feature vert for script latn
  with language dflt
 luaotfload | aux : font no 46 (nil) does not define feature vrt2 for script latn
@@ -791,26 +793,15 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \tf@toc=\write4
 
 \openout4 = script.toc
- [1
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
+ [2] [3]
 LaTeX Font Info:    Font shape `LTJY3/FandolSong-Regular(0)/bx/n' in size <12> 
 not available
 (Font)              Font shape `LTJY3/FandolSong-Regular(0)/b/n' tried instead 
-on input line 39.
+on input line 40.
 luaotfload | aux : font no 52 (nil) does not define feature vert for script latn
  with language dflt
 luaotfload | aux : font no 52 (nil) does not define feature vrt2 for script latn
- with language dflt [3
-Missing character: There is no △ (U+25B3) in font [lmroman10-bold]:+tlig;!
-Missing character: There is no △ (U+25B3) in font [lmroman10-bold]:+tlig;!
-Missing character: There is no △ (U+25B3) in font [lmroman10-bold]:+tlig;!
-Missing character: There is no △ (U+25B3) in font [lmroman10-bold]:+tlig;!
-Missing character: There is no △ (U+25B3) in font [lmroman10-bold]:+tlig;!
-Missing character: There is no △ (U+25B3) in font [lmroman10-bold]:+tlig;!
-] [4
-Missing character: There is no △ (U+25B3) in font [lmroman10-bold]:+tlig;!
-Missing character: There is no △ (U+25B3) in font [lmroman10-bold]:+tlig;!
+ with language dflt [4
 Missing character: There is no △ (U+25B3) in font [lmroman10-bold]:+tlig;!
 Missing character: There is no △ (U+25B3) in font [lmroman10-bold]:+tlig;!
 Missing character: There is no △ (U+25B3) in font [lmroman10-bold]:+tlig;!
@@ -818,6 +809,15 @@ Missing character: There is no △ (U+25B3) in font [lmroman10-bold]:+tlig;!
 Missing character: There is no △ (U+25B3) in font [lmroman10-bold]:+tlig;!
 Missing character: There is no △ (U+25B3) in font [lmroman10-bold]:+tlig;!
 ] [5
+Missing character: There is no △ (U+25B3) in font [lmroman10-bold]:+tlig;!
+Missing character: There is no △ (U+25B3) in font [lmroman10-bold]:+tlig;!
+Missing character: There is no △ (U+25B3) in font [lmroman10-bold]:+tlig;!
+Missing character: There is no △ (U+25B3) in font [lmroman10-bold]:+tlig;!
+Missing character: There is no △ (U+25B3) in font [lmroman10-bold]:+tlig;!
+Missing character: There is no △ (U+25B3) in font [lmroman10-bold]:+tlig;!
+Missing character: There is no △ (U+25B3) in font [lmroman10-bold]:+tlig;!
+Missing character: There is no △ (U+25B3) in font [lmroman10-bold]:+tlig;!
+] [6
 Missing character: There is no △ (U+25B3) in font [lmroman10-bold]:+tlig;!
 Missing character: There is no △ (U+25B3) in font [lmroman10-bold]:+tlig;!
 Missing character: There is no △ (U+25B3) in font [lmroman10-bold]:+tlig;!
@@ -835,26 +835,26 @@ Package rerunfilecheck Info: File `script.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 13969 strings out of 476553
+ 13970 strings out of 476553
  125027,1977958 words of node,token memory allocated
  594 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 57 attribute, 55 glue_spec
 , 11 attribute_list, 1 write, 6 user_defined nodes
-   avail lists: 1:1,2:19777,3:340,4:266,5:168,6:60,7:2526,8:2,9:1204,10:6
+   avail lists: 1:2,2:19777,3:340,4:159,5:115,6:43,7:2526,8:2,9:1204,10:6
  35686 multiletter control sequences out of 65536+600000
  52 fonts using 31511959 bytes
- 90i,6n,95p,369b,339s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 90i,6n,95p,369b,337s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/opentype/public/lm/lmroman12-bold.otf></usr/share/texmf/
-fonts/opentype/public/lm/lmroman10-regular.otf></usr/share/texmf/fonts/opentype/
-public/lm/lmroman10-bold.otf></usr/share/texlive/texmf-dist/fonts/opentype/publi
-c/fandol/FandolSong-Bold.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman1
+fonts/opentype/public/lm/lmroman10-bold.otf></usr/share/texlive/texmf-dist/fonts
+/opentype/public/fandol/FandolSong-Bold.otf></usr/share/texmf/fonts/opentype/pub
+lic/lm/lmroman10-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman1
 2-regular.otf></usr/share/texlive/texmf-dist/fonts/opentype/public/fandol/Fandol
 Song-Regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman17-regular.ot
 f>
-Output written on script.pdf (5 pages, 170694 bytes).
+Output written on script.pdf (6 pages, 171053 bytes).
 
-PDF statistics: 141 PDF objects out of 1000 (max. 8388607)
- 111 compressed objects within 2 object streams
- 18 named destinations out of 1000 (max. 131072)
+PDF statistics: 145 PDF objects out of 1000 (max. 8388607)
+ 114 compressed objects within 2 object streams
+ 19 named destinations out of 1000 (max. 131072)
  97 words of extra memory for PDF output out of 10000 (max. 100000000)
 
