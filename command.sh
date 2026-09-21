@@ -1,5 +1,7 @@
 git pull
 
+rm script/*.aux script/*.log script/*.out script/*.toc script/*.gz
+
 echo '```' > README.md
 tree -L 10 -I 'command.sh|README.md' >> README.md
 echo '```' >> README.md
