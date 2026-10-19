@@ -1,6 +1,6 @@
 git pull
 
-rm script/*.aux script/*.log script/*.out script/*.toc script/*.gz
+find script -maxdepth 1 -type f ! -name '*.pdf' ! -name '*.tex' -delete
 
 echo '```' > README.md
 tree -L 10 -I 'command.sh|README.md' >> README.md
