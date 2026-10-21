@@ -1,8 +1,11 @@
 ```
 .
 ├── charactor
+│   ├── charactor_prompt.pdf
+│   ├── charactor_prompt.tex
 │   ├── charactor_table.pdf
-│   └── charactor_table.tex
+│   ├── charactor_table.tex
+│   └── charactor_views
 └── script
     ├── abstract.pdf
     ├── abstract.tex
@@ -13,5 +16,5 @@
     ├── script.pdf
     └── script.tex
 
-3 directories, 10 files
+4 directories, 12 files
 ```
