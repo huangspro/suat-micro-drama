@@ -1,5 +1,8 @@
 ```
 .
+├── charactor
+│   ├── charactor_table.pdf
+│   └── charactor_table.tex
 ├── script
 │   ├── abstract.pdf
 │   ├── abstract.tex
@@ -11,5 +14,5 @@
 │   └── script.tex
 └── typescript
 
-2 directories, 9 files
+3 directories, 11 files
 ```
