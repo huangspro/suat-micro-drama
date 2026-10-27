@@ -23,9 +23,9 @@
 │   │   │   ├── expressions.png
 │   │   │   └── main.png
 │   │   └── teacher
-│   │       ├──  main.png
 │   │       ├── 3views.png
-│   │       └── expressions.png
+│   │       ├── expressions.png
+│   │       └── main.png
 │   ├── expressions_prompt.txt
 │   ├── profile.pdf
 │   ├── profile.tex
