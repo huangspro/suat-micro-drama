@@ -1,0 +1,17 @@
+统一提示词：
+严格参考所提供的人物图，人物长相、服装、发型、色彩、比例与参考图完全一致，不得改变人物外貌；角色表情设定图，同一角色6个表情水平并排一行，1×6横向排列，半身像，正面平视，纯色浅灰背景，写实风格，电影感光影，高清细节，光线机位构图一致，仅表情变化，无水印无文字。Use case: photorealistic-natural. Reference image 1 is the primary frontal character identity; reference image 2 is supporting three-view identity and outfit reference only. Output is an expression sheet, NOT a turnaround: all six face forward at eye level. Only these two attached references define this character; preserve the EXACT recognizable face, age, gender, facial anatomy, hair, body proportions, clothing colors, fabric, accessories and badges. Natural realistic human skin and proportions, photorealistic cinematic portraiture. One very wide landscape image, aspect about 3:1, exactly SIX evenly spaced equal-width waist-up portraits in a SINGLE HORIZONTAL ROW. All heads fully visible at identical scale, consistent camera distance, no overlaps, no inset portraits or additional rows. Plain uniform light gray studio background. No labels, captions, numbers, watermarks or decorative text. Preserve existing physical badges/accessories, their tiny text can be indistinct. Expression nuances should be clear and believable. 
+
+01_校长
+从左到右6个表情：1 平静：嘴角平直，眼神审视，微微仰头。2 微笑：嘴角挂一抹可随时收放的礼貌微笑，眼神不达眼底。3 愤怒：眉头紧压，嘴角下撇，眼神凌厉，面部绷紧。4 惊讶：眉毛上扬，眼睛微睁，嘴角僵住，强作镇定。5 不安：微笑消失，眼神闪躲，额头微汗，一只手整理原有红领带。6 标志性表情：双手撑在画面下沿简洁讲台边缘，微微仰头，标准微笑扫视前方。严格保持与人物图一致的外貌与服装，6个表情等宽等距横向排列，表情夸张清晰可辨。
+
+02_开明老师
+从左到右6个表情：1 平静：眼神犹豫，心事重重。2 微笑：勉强的温和微笑，眼神带不安。3 愤怒：眉头紧锁，嘴唇紧抿，压抑愤懑，身体试图坐直却僵硬。4 惊讶：眼睛睁大，嘴唇微张，欲言又止，身体后缩。5 悲伤不安：微微低头，眼神下垂，肩膀塌下，无力。6 标志性表情：欲言又止，嘴唇微张但说不出话，目光躲闪，被注视时低头。保持全部面孔可见，低头幅度不要遮住眼睛。严格保持与人物图一致的外貌与服装，6个表情等宽等距横向排列，表情夸张清晰可辨。
+
+03_教育部部长
+从左到右6个表情：1 平静：双手背身后，眼神审视。2 微笑：笑容来得快，眼角堆笑，带满意审视。3 愤怒：笑容凝固，眉头压低，眼神冷硬，保持近正面。4 惊讶：眉毛高挑，眼睛睁圆，嘴巴微张，身体微前倾。5 满意得意：拍肩姿态，笑容满面，微微前倾，一只手略伸向画外做拍肩姿态，不加入第二个人。6 标志性表情：提问时微微前倾，笑容半收，眼神在审视与满意间切换。严格保持与人物图一致的外貌与服装，6个表情等宽等距横向排列，表情夸张清晰可辨。
+
+04_秘书
+从左到右6个表情：1 平静：表情中性，站姿恭敬克制。2 微笑：极浅职业性微笑，克制顺从。3 紧张：眉头微蹙，眼神紧张，双手握一台无品牌黑色相机，身体前倾待命。4 惊讶：眼睛微睁，嘴巴微张，略显吃惊。5 专注：紧盯相机取景框，表情严肃，手指按快门，相机放在脸下方略抬起，务必让双眼和面部表情仍清晰可见。6 标志性表情：手持同一相机随时拍摄，眼神跟随前方，动作精准。相机是PDF要求的动作道具，不改变参考中眼镜、马尾、黑色职业套装、灰色领结、徽章、胸牌和挂绳证件。严格保持与人物图一致的外貌与服装，6个表情等宽等距横向排列，表情夸张清晰可辨。
+
+05_学生A
+从左到右6个表情：1 平静：标准固定微笑，眼神明亮却缺乏变化。2 标准微笑：嘴角弧度标准，直视前方，笑容比第一张稍明显。3 紧张：笑容略僵，眼神闪动，嘴唇紧抿。4 惊讶：眼睛睁大，嘴巴微张，残留标准微笑的僵硬感。5 兴奋抢答：抢先跨步的上身前倾瞬间，眼神发亮，表情用力而机械。6 标志性表情：保持标准微笑一动不动，挺直僵硬，被拍肩时笑容不变，只呈现同一学生，不加入他人。保持眼镜、蓝白校服、白衬衣、深蓝领带、黑色双肩书包肩带、挂绳证件与参考一致。严格保持与人物图一致的外貌与服装，6个表情等宽等距横向排列，表情夸张清晰可辨。
