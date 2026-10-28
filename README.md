@@ -26,10 +26,8 @@
 │   │       ├── 3views.png
 │   │       ├── expressions.png
 │   │       └── main.png
-│   ├── expressions_prompt.txt
 │   ├── profile.pdf
-│   ├── profile.tex
-│   └── profile_others.docx
+│   └── profile.tex
 ├── clear.sh
 └── script
     ├── outline.pdf
@@ -39,5 +37,5 @@
     ├── script.pdf
     └── script.tex
 
-9 directories, 30 files
+9 directories, 28 files
 ```
